@@ -1,5 +1,5 @@
 # **1UP or 6' Under?**
-![1Up](metis_classification/images/1up.png)
+![1Up](images/1up.png)
 ### *Classification of fungal toxicity using sklearn.*
 
 ### **The Question**
